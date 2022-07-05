@@ -1,0 +1,157 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.firstone{
+    display: flex;
+    background-image: url(images/shapes/Group\ 8450.png);
+    background-repeat: no-repeat;
+    background-size: 600px;
+    background-position: 105% 60%;
+    margin-bottom: 300px;
+}
+.firston{
+    width: 50%;
+}
+.txt{
+    color: orange;
+}
+.text{
+    margin-left: 100px;
+    margin-top: 200px;
+   
+}
+.firsto{
+    font-size: 60px;
+    font-weight: 800;
+    color: #696969;
+}
+.firston img{
+    height: 650px;
+}
+.first{
+    font-size: 20px;
+    color: gray;
+    margin-bottom: 60px;
+}
+.firs{
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    padding: 20px 50px;
+    border-radius: 30px;
+    color: white;
+    font-size: 20px;
+    letter-spacing: 1px;
+
+
+}
+
+
+.fem{
+    height: 500px;
+    padding-left: 200px;
+}
+.second{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+}
+.kutu{
+    width: 50%;
+}
+.sec{
+    color: #696969;
+    font-size: 40px;
+    margin-top: 70px;
+}
+.se{
+    font-size: 17px;
+    margin-bottom: 100px;
+}
+.seco h1,
+.seco p{
+    padding-left: 110px;
+    padding-right: 120px;
+}
+.bbt{
+    text-decoration: none;
+    margin-left: 150px;
+    background-image: radial-gradient(orange, tomato);
+    padding: 15px 30px;
+    border-radius: 30px;
+    color: white;
+    font-size: 20px;
+}
+
+
+
+.three{
+    text-align: center;
+    margin-left: 320px;
+    margin-right: 320px;
+}
+.thr{
+    font-size: 40px;
+    color: #696969;
+}
+.th{
+    font-size: 18px;
+}
+.fourpiss{
+    display: flex;
+}
+
+.fourpis{
+    margin: 50px;
+    
+    height: 520px;
+    width: 800px;
+    border-radius: 30px;
+    box-shadow: 1px 1px 10px gray;
+}
+.fd{
+    height: 300px;
+    width: 520px;
+    padding: 20px;
+}
+.dal{
+    margin: 20px;
+}
+.dalu{
+    margin: 20px;
+}
+.inli{
+    display: flex;
+    height: 200px;
+    width: 1100px;
+    margin-left: 120px;
+    margin-top: 80px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px;
+    margin-bottom: 200px;
+}
+.ini{
+    width: 10%;
+    padding-left: 200px;
+    padding-top: 20px;
+    line-height: 20px;
+}
+.nm{
+    font-size: 50px;
+    
+}
+.last{
+    text-align: center;
+    background-color: #000000;
+    padding-top: 20px;
+    padding-bottom: 150px;
+}
+.lul{
+    color: #696969;
+}
+.lullu{
+    color: tomato;
+}
+.lull{
+    color: aliceblue;
+}
